@@ -136,6 +136,7 @@ void main(void)
 ## OUTPUT
 BUTTON RELEASED(OFF):
 <img width="1172" height="593" alt="Screenshot 2026-11-06 100532" src="https://github.com/user-attachments/assets/9545c5dc-6ab9-4dc8-a73c-4441a638e5ed" />
+
 BUTTON PRESSED(ON):
 <img width="1213" height="647" alt="Screenshot 2026-11-05 110522" src="https://github.com/user-attachments/assets/024c4b10-0c8d-4401-8329-a79476e58140" />
 
